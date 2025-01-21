@@ -20,14 +20,10 @@
 @media (min-width: 1024px) {
   .main {
     grid-template-columns: repeat(4, 200px);
-  }
-}
-
-@media (min-width: 1024px) {
-  .main {
     padding: 50px 40px 72px;
   }
 }
+
 
 @media (min-width: 1200px) {
   .main {

@@ -9,13 +9,13 @@
   box-sizing: border-box;
 }
 
-@media (width: 1200px) {
+@media (min-width: 1200px) {
   .img-link {
     margin-right: 419px;
   }
 }
 
-@media (width: 1024px) {
+@media (min-width: 1024px) {
   .img-link {
     margin-right: 243px;
   }
